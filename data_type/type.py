@@ -1,0 +1,10 @@
+x = "Hello world"
+x = 20
+2 = 20.5
+x = ["apple","banana","cherry"] #list
+x = ("apple","banana","cherry") #tuple
+x = {"name": "jeanine", "age": 21} #dict
+x = {"apple","banana","cherry"} #set
+x = frozenset ({"apple","banana","cherry"}) #frozenset
+x = True #bool
+x = b"hello" #bytes
